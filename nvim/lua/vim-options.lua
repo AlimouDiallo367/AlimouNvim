@@ -10,3 +10,4 @@ vim.opt.clipboard = "unnamedplus"
 -- Activate lines number - relative lines
 vim.opt.number = true
 vim.opt.relativenumber = true
+
