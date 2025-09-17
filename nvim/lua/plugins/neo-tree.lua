@@ -7,7 +7,7 @@ return {
       "MunifTanjim/nui.nvim",
       "nvim-tree/nvim-web-devicons", 
     },
-    lazy = false, 
+    lazy = false,
     config = function()
       vim.keymap.set('n', '<C-n>', ':Neotree toggle<CR>', { desc = "Toggle Neo-tree" })
     end,
