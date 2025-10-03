@@ -11,3 +11,5 @@ My personal Neovim configuration, built with [Lazy.nvim](https://github.com/folk
 - Statusline powered by **Lualine**
 - LSP setup with **mason.nvim** + **mason-lspconfig** + **nvim-lspconfig**
 
+## Notes 
+The configs are mainly inspired by [Typecraft](https://typecraft.dev/), with additional customizations done by myselft.
